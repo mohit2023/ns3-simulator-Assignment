@@ -1,0 +1,10 @@
+./run.sh 1 2
+./run.sh 1 4
+./run.sh 1 10
+./run.sh 1 20
+./run.sh 1 50
+./run.sh 2 0.5
+./run.sh 2 1
+./run.sh 2 2
+./run.sh 2 4
+./run.sh 2 10
